@@ -1,5 +1,4 @@
 folder_test_set/
+folder_train_set/
 features_batches/
 *.json
-*.pt
-*.pkl
