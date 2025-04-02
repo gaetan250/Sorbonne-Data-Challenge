@@ -1,0 +1,5 @@
+folder_test_set/
+features_batches/
+*.json
+*.pt
+*.pkl
