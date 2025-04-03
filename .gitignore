@@ -4,3 +4,6 @@ features_batches/
 *.json
 graph_viz
 pt_output
+viz 
+model
+final_pred.xlsx
